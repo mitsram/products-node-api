@@ -1,1 +1,1 @@
-# products-api
+# products-node-api
